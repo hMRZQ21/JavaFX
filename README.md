@@ -1,2 +1,2 @@
 # JavaFX
-A JavaFX drawing project
+A JavaFX drawing project. This was a school project were we used JavaFX to draw different shapes with colors. Each file defines a class that is either a shape, a color, or components of a shape. The App file is esentially the main driver class. The output png file shows the output of the drawing on a canvas. The pdf file describes the project prompt. I was hoping I can perfect this project by making the output more exact, by looking at the picture, you'll understand what I mean.
